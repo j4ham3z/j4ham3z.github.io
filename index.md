@@ -6,7 +6,7 @@ layout: default
 
 # this is my silly little website
 This is [DMDCR](https://github.com/DMDCR)'s other GitHub account for school!!
-# * *
+# -----------------------------------------------------------------------------
 *(I use this account while I'm at school.)*
 
 ### THIS SITE IS UNDER DEVELOPMENT
