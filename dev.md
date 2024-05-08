@@ -5,7 +5,7 @@ I'm J4ham3z, also known as [DMDCR](https://github.com/DMDCR). I'm a game and web
 It's just a silly name I made up!
 # LINKS
 [My Youtube Channel](https://youtube.com/@dmdev_)
--------------------------------------
+# [ ]()
 [My Main Website](https://dmdtutorials.com)
 
 ### THIS SITE IS UNDER DEVELOPMENT
