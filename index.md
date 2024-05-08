@@ -1,7 +1,6 @@
 ---
 permalink: /
 layout: default
-icon: favicon.ico
 ---
 
 # About J4ham3z
