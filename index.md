@@ -1,5 +1,5 @@
 ---
-permalink: /devpage
+permalink: /
 layout: default
 ---
 
